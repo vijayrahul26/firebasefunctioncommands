@@ -19,12 +19,17 @@ To initialize your project:
 3. Run firebase init functions. The tool gives you an option to install dependencies with npm. It is safe to decline if you want to manage dependencies in another way.
 
 4. The tool gives you two options for language support:
+
 · JavaScript
+
 · TypeScript
+
 For this tutorial, select JavaScript.
 
 After these commands complete successfully, your project structure looks like this:
+
 myproject
+
 +- .firebaserc # Hidden file that helps you quickly switch between
 | # projects with `firebase use`
 |
